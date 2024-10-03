@@ -4,9 +4,6 @@ from tkinter import scrolledtext
 from string import ascii_letters
 
 # Functions
-def Validate_Key(Key):
-    return True
- 
 def Format_Text(Output_Area, Input_Area):
     Output_Area.config(state=NORMAL)
     Output_Area.delete("1.0", END)

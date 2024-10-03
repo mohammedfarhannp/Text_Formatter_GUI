@@ -1,11 +1,9 @@
 # Import Section
-from Format import *
+from module.Format import *
 
 # Variables
 Window_Size = "500x500"
 Window_Title = "Text Formatting Software"
-
-whole_set = ascii_letters + '1234567890 ' + '*~_'
 
 # Window
 window = Tk()
