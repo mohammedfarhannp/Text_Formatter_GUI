@@ -11,5 +11,5 @@ Format function checks for text encapsuled  in '**' and makes it bold, similarly
 ## Running Script
 `python main.py`
 
-![Image](http://github.com/mohammedfarhannp/Text_Formatter_GUI/)
+![Image](http://github.com/mohammedfarhannp/Text_Formatter_GUI/blob/master/imgs/Screenshot.png)
 
